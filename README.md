@@ -11,4 +11,4 @@
 <img src="https://github.com/jefdicamargo-oss/PROJETO-APRENDENDO-CSS/blob/main/img/wide-coverade.png"/>
 <br>
 <br>
-<img src=""
+<img src="https://github.com/jefdicamargo-oss/PROJETO-APRENDENDO-CSS/blob/main/img/we-care.png"/>
